@@ -1,0 +1,2 @@
+# QRcode
+Python qrcode Project
